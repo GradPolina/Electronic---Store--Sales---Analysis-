@@ -1,6 +1,6 @@
 # Electronic---Store--Sales---Analysis-
 SALES ANALYSIS
-In this project I use Python Pandas & Python Matplotlib to analyze and answer business questions about 3 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
+In this project I use Python Pandas & Python Matplotlib to analyze and answer business questions about 6 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 I started by cleaning the data.
 1. Drop NaN values from DataFrame.
